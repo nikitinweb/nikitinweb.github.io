@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'SF UI Text';
+	src: url('SFUIText-Light.woff2') format('woff2'),
+		url('SFUIText-Light.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SF UI Text';
+	src: url('SFUIText-Semibold.woff2') format('woff2'),
+		url('SFUIText-Semibold.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SF UI Text';
+	src: url('SFUIText-Regular.woff2') format('woff2'),
+		url('SFUIText-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
